@@ -19,7 +19,7 @@ exports.handler = function(event, context) {
         Message: {
             Body: {
                 Text: {
-                    Data: "Running late. Be in soon.\n\nYesterday:\nMeetings\nMoving cards\nSorting email\nDealing with server issues\n\nToday:\nDoing what was supposed to be done yesterday\n"
+                    Data: "Running late. Be in soon.\n\nYesterday:\nMeetings\nMoving cards\nSorting email\nDealing with server issues\n\nToday:\nDoing what was supposed to be done yesterday\n\nIn my way:\nRunning late\n\nPowered by AWS IoT"
                 }
             },
             Subject: {
